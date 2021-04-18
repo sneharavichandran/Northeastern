@@ -1,0 +1,6 @@
+Dataset download link for Team 20:
+https://www.kaggle.com/sakhawat18/asteroid-dataset
+
+Readme before running the code:
+Graphviz needs to be installed and PATH variables need to be set
+imblearn module needs to be installed through conda
